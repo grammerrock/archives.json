@@ -113,7 +113,7 @@
   "domain": "yuki.la",
   "http": true,
   "https": true,
-  "software": "foolfuuka",
+  "software": "fuuka",
   "boards": ["hm"],
   "files": ["hm"]
 }]
