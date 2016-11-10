@@ -107,4 +107,13 @@
   "software": "foolfuuka",
   "boards": ["h", "hc", "hm", "r", "s", "soc"],
   "files": ["h", "hc", "hm", "r", "s", "soc"]
+}, {
+  "uid": 32,
+  "name": "Yuki.la",
+  "domain": "yuki.la",
+  "http": true,
+  "https": true,
+  "software": "foolfuuka",
+  "boards": ["hm"],
+  "files": ["hm"]
 }]
